@@ -18,6 +18,8 @@
 - :telescope: Hi there! I'm a Software Engineer/ Quality Assurance Engineer 3+ years of experience in the industry. I have a passion for building high-quality, scalable, and user-friendly applications.
 <br>
 
+[![An image of @vishmi49's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishmi49)](https://holopin.io/@vishmi49)
+
 <div align="center">
   <h2>Tools and Technologies</h2>
   <br>
